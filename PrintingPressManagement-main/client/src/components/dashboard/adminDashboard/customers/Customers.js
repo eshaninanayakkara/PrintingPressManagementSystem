@@ -162,7 +162,7 @@ const Customers = () => {
       <div className="bg-white p-3 mt-3">
         <div class="row justify-content-between mt-3">
           <div class="col-8">
-            <h3 className="fs-5 fw-bold ms-3">All Customers aaa</h3>
+            <h3 className="fs-5 fw-bold ms-3">All Customers</h3>
             <div className="d-flex align-items-center justify-content-between border-bottom py-3">
               <form className="d-flex" role="search">
                 <input
